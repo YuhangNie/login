@@ -1,10 +1,10 @@
 {
   "anyrouter": {
     "cookies": {
-      "acw_tc": "2b6d859d17892754214796369eb1551dc6c1305dc8485b6a68893945fc",
-      "cdn_sec_tc": "2b6d859d17892754214796369eb1551dc6c1305dc8485b6a68893945fc",
-      "acw_sc__v2": "6aa62d1de5bec9cde8b4064d0ff94054f5d8dcd0"
+      "acw_tc": "2b6d859a17893010080535088e46dd3ac9a6b8242d69c9996111556f40",
+      "cdn_sec_tc": "2b6d859a17893010080535088e46dd3ac9a6b8242d69c9996111556f40",
+      "acw_sc__v2": "6aa691101f4b39cb756942d09e20926fb05d7371"
     },
-    "updated_at": "2026-09-13 12:57:04"
+    "updated_at": "2026-09-13 20:03:30"
   }
 }
