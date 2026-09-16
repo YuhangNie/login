@@ -1,13 +1,3 @@
-# Any Router 多账号自动签到
-
-多平台多账号自动签到，理论上支持所有 NewAPI、OneAPI 平台，目前内置支持 Any Router 与 Agent Router，其它可根据文档进行摸索配置。
-
-推荐搭配使用[Auo](https://github.com/millylee/auo)，支持任意 Claude Code Token 切换的工具。
-
-**维护开源不易，如果本项目帮助到了你，请帮忙点个 Star，谢谢!**
-
-用于 Claude Code 中转站 Any Router 网站多账号每日签到，一次 $25，限时注册即送 100 美金，[点击这里注册](https://anyrouter.top/register?aff=gSsN)。业界良心，支持 Claude Sonnet 4.5、GPT-5-Codex、Claude Code 百万上下文（使用 `/model sonnet[1m]` 开启），`gemini-2.5-pro` 模型。
-
 ## 功能特性
 
 - ✅ 多平台（兼容 NewAPI 与 OneAPI）
