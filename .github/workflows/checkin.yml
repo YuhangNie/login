@@ -8,7 +8,7 @@ on:
       skip_delay:
         description: '跳过随机延迟'
         required: false
-        default: 'true'
+        default: true
         type: boolean
   repository_dispatch:
     types: [telegram_checkin]
